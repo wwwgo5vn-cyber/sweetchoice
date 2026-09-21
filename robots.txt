@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /page/
+
+Sitemap: https://sweetchoice.info.vn/sitemap-index.xml
